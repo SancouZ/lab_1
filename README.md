@@ -18,3 +18,4 @@
 ### Блок-схема:
 ![Диаграмма без названия drawio](https://github.com/user-attachments/assets/4ee8bbc3-4c25-473f-90b5-996ef185ddcf)
 
+# [Решение задания 1](https://github.com/Ms1black/lab_1/blob/master/lab_1/1.cpp)
