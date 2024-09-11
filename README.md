@@ -1,4 +1,4 @@
-# (ВП) Лабораторная № 1. Программы линейной структуры
+[laba_1.1.pdf](https://github.com/user-attachments/files/16967562/laba_1.1.pdf)# (ВП) Лабораторная № 1. Программы линейной структуры
 -----------
 
 ## Цель работы: 
@@ -16,6 +16,8 @@
 ## Вариант 25 
 ![изображение](https://github.com/user-attachments/assets/5e994f2a-b5ef-4436-9810-dbfea04bc7ed)
 
+-----------
+# [ОТЧЕТ](https://github.com/user-attachments/files/16967565/laba_1.1.pdf)
 -----------
 # №1 [Решение задания](https://github.com/Ms1black/lab_1/blob/master/lab_1/1.cpp)
 ### Блок-схема:
